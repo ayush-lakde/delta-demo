@@ -1,2 +1,2 @@
 # delta-demo
-new file to understand how github works 
+new file to understand how github works.
